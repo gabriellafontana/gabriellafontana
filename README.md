@@ -15,7 +15,7 @@ I'm currently focused on learning web development and building practical project
 - HTML, CSS, JavaScript  
 - Git and GitHub  
 - Python  
-- React (coming soon!)
+- Django
 
 ### 💻 Projects
 Here are a few of the projects I'm working on or planning to build:
